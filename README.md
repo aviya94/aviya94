@@ -1,12 +1,12 @@
 # Hi there, I'm Aviya Meidan 👋
 ### Software Engineer | Backend & Embedded Systems Developer
 
-I am a passionate and versatile **Software Engineer** with 4+ years of experience specializing in building robust, high-performance systems. [cite_start]My core expertise lies in **Backend Architecture** and **Real-Time Embedded Systems**, combining low-level hardware constraints with scalable cloud applications[cite: 5, 11, 19].
+I am a passionate and versatile **Software Engineer** with 4+ years of experience specializing in building robust, high-performance systems. My core expertise lies in **Backend Architecture** and **Real-Time Embedded Systems**, combining low-level hardware constraints with scalable cloud applications.
 
 🚀 **What I Do:**
-* [cite_start]**Backend Development:** Architecting scalable backend services and RESTful APIs using .NET 8 (ASP.NET Core), Java Spring, and modern DB environments[cite: 11, 29].
-* [cite_start]**Embedded Systems:** Writing robust, multi-threaded C++ applications for real-time systems on Linux, collaborating closely with FPGA/CPLD, and diagnosing complex defects using gdb and Valgrind[cite: 19, 20, 24].
-* [cite_start]**Modern DevOps & AI:** Deploying containerized microservices into production environments with Docker and Kubernetes, while leveraging cutting-edge AI-driven workflows (GitHub Copilot, Open-Code) to optimize delivery[cite: 12, 13, 56, 57].
+* **Backend Development:** Architecting scalable backend services and RESTful APIs using .NET 8 (ASP.NET Core), Java Spring, and modern DB environments.
+* **Embedded Systems:** Writing robust, multi-threaded C++ applications for real-time systems on Linux, collaborating closely with FPGA/CPLD, and diagnosing complex defects using gdb and Valgrind.
+* **Modern DevOps & AI:** Deploying containerized microservices into production environments with Docker and Kubernetes, while leveraging cutting-edge AI-driven workflows (GitHub Copilot, Open-Code) to optimize delivery.
 
 ---
 
@@ -40,8 +40,8 @@ I am a passionate and versatile **Software Engineer** with 4+ years of experienc
 ## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aviya94&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Aviya's GitHub Stats" height="190" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aviya94&layout=compact&theme=tokyonight&hide=javascript,html,css" alt="Top Languages" height="190" />
+  <img src="https://github-readme-stats.graphem.tech/api?username=aviya94&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Aviya's GitHub Stats" height="190" />
+  <img src="https://github-readme-stats.graphem.tech/api/top-langs/?username=aviya94&layout=compact&theme=tokyonight&hide=javascript,html,css" alt="Top Languages" height="190" />
 </p>
 
 <p align="center">
