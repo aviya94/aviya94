@@ -1,12 +1,12 @@
 # Hi there, I'm Aviya Meidan 👋
 ### Software Engineer | Backend & Embedded Systems Developer
 
-I am a passionate and versatile **Software Engineer** with 4+ years of experience specializing in building robust, high-performance systems[cite: 1]. My core expertise lies in **Backend Architecture** and **Real-Time Embedded Systems**, combining low-level hardware constraints with scalable cloud applications[cite: 1].
+I am a passionate and versatile **Software Engineer** with 4+ years of experience specializing in building robust, high-performance systems. [cite_start]My core expertise lies in **Backend Architecture** and **Real-Time Embedded Systems**, combining low-level hardware constraints with scalable cloud applications[cite: 5, 11, 19].
 
 🚀 **What I Do:**
-* **Backend Development:** Architecting scalable backend services and RESTful APIs using .NET 8 (ASP.NET Core), Java Spring, and modern DB environments[cite: 1].
-* **Embedded Systems:** Writing robust, multi-threaded C++ applications for real-time systems on Linux, collaborating closely with FPGA/CPLD, and diagnosing complex defects using gdb and Valgrind[cite: 1].
-* **Modern DevOps & AI:** Deploying containerized microservices into production environments with Docker and Kubernetes, while leveraging cutting-edge AI-driven workflows (GitHub Copilot, Open-Code) to optimize delivery[cite: 1].
+* [cite_start]**Backend Development:** Architecting scalable backend services and RESTful APIs using .NET 8 (ASP.NET Core), Java Spring, and modern DB environments[cite: 11, 29].
+* [cite_start]**Embedded Systems:** Writing robust, multi-threaded C++ applications for real-time systems on Linux, collaborating closely with FPGA/CPLD, and diagnosing complex defects using gdb and Valgrind[cite: 19, 20, 24].
+* [cite_start]**Modern DevOps & AI:** Deploying containerized microservices into production environments with Docker and Kubernetes, while leveraging cutting-edge AI-driven workflows (GitHub Copilot, Open-Code) to optimize delivery[cite: 12, 13, 56, 57].
 
 ---
 
@@ -26,12 +26,8 @@ I am a passionate and versatile **Software Engineer** with 4+ years of experienc
 ![Multi-Threading](https://img.shields.io/badge/Multi--Threading-00599C?style=for-the-badge)
 ![Networking Protocols](https://img.shields.io/badge/Networking_(PTP_/_Wireshark)-263238?style=for-the-badge)
 
-### 🌐 Frontend & Scripting
+### 🌐 Frontend Frameworks
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&angle=0&logoColor=white)
 
 ### 🚀 DevOps & AI Tools
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -41,7 +37,7 @@ I am a passionate and versatile **Software Engineer** with 4+ years of experienc
 
 ---
 
-## 📊 GitHub Stats & Code Metrics
+## 📊 GitHub Stats & Achievements
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=aviya94&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Aviya's GitHub Stats" height="190" />
@@ -49,7 +45,7 @@ I am a passionate and versatile **Software Engineer** with 4+ years of experienc
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/xyz.svg?username=aviya94&theme=tokyonight&lines_from_force=true" alt="Lines of Code" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aviya94&theme=tokyonight&column=4&margin-w=15" alt="Aviya's GitHub Trophies" />
 </p>
 
 ---
