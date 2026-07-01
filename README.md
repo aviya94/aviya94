@@ -41,11 +41,15 @@ I am a passionate and versatile **Software Engineer** with 4+ years of experienc
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Code Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aviya94&show_icons=true&theme=tokyonight&count_private=true" alt="Aviya's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aviya94&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aviya94&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Aviya's GitHub Stats" height="190" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aviya94&layout=compact&theme=tokyonight&langs_count=7" alt="Top Languages" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=aviya94&layout=compact&theme=tokyonight" alt="Lines of Code / Time Spent" height="150" />
 </p>
 
 ---
