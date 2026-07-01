@@ -1,12 +1,12 @@
 # Hi there, I'm Aviya Meidan 👋
 ### Software Engineer | Backend & Embedded Systems Developer
 
-I am a passionate and versatile **Software Engineer** with 4+ years of experience specializing in building robust, high-performance systems. My core expertise lies in **Backend Architecture** and **Real-Time Embedded Systems**, combining low-level hardware constraints with scalable cloud applications.
+I am a passionate and versatile **Software Engineer** with 4+ years of experience specializing in building robust, high-performance systems[cite: 1]. My core expertise lies in **Backend Architecture** and **Real-Time Embedded Systems**, combining low-level hardware constraints with scalable cloud applications[cite: 1].
 
 🚀 **What I Do:**
-* **Backend Development:** Architecting scalable backend services and RESTful APIs using .NET 8 (ASP.NET Core), Java Spring, and modern DB environments.
-* **Embedded Systems:** Writing robust, multi-threaded C++ applications for real-time systems on Linux, collaborating closely with FPGA/CPLD, and diagnosing complex defects using gdb and Valgrind.
-* **Modern DevOps & AI:** Deploying containerized microservices into production environments with Docker and Kubernetes, while leveraging cutting-edge AI-driven workflows (GitHub Copilot, Open-Code) to optimize delivery.
+* **Backend Development:** Architecting scalable backend services and RESTful APIs using .NET 8 (ASP.NET Core), Java Spring, and modern DB environments[cite: 1].
+* **Embedded Systems:** Writing robust, multi-threaded C++ applications for real-time systems on Linux, collaborating closely with FPGA/CPLD, and diagnosing complex defects using gdb and Valgrind[cite: 1].
+* **Modern DevOps & AI:** Deploying containerized microservices into production environments with Docker and Kubernetes, while leveraging cutting-edge AI-driven workflows (GitHub Copilot, Open-Code) to optimize delivery[cite: 1].
 
 ---
 
@@ -40,13 +40,8 @@ I am a passionate and versatile **Software Engineer** with 4+ years of experienc
 ## 📊 GitHub Stats & Code Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aviya94&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Aviya's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aviya94&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=stars,prs,issues,contribs" alt="Aviya's GitHub Stats" height="180" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aviya94&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/code-size/aviya94?style=for-the-badge&label=Total%20Code%20Size&color=7aa2f7" alt="Total Code Size" />
-  <img src="https://img.shields.io/badge/Lines_of_Code-Click_to_View-bb9af7?style=for-the-badge" alt="Lines of Code" />
 </p>
 
 ---
