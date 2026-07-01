@@ -1,16 +1,12 @@
 # Hi there, I'm Aviya Meidan 👋
 ### Software Engineer | Backend & Embedded Systems Developer
 
-<img src="profile.jpg" alt="Aviya Meidan" width="170" height="170" align="left" style="border-radius: 50%; margin-right: 20px; margin-bottom: 20px; border: 2px solid #555; object-fit: cover;" />
-
 I am a passionate and versatile **Software Engineer** with 4+ years of experience specializing in building robust, high-performance systems[cite: 1]. My core expertise lies in **Backend Architecture** and **Real-Time Embedded Systems**, combining low-level hardware constraints with scalable cloud applications[cite: 1].
 
 🚀 **What I Do:**
 * **Backend Development:** Architecting scalable backend services and RESTful APIs using .NET 8 (ASP.NET Core), Java Spring, and modern DB environments[cite: 1].
 * **Embedded Systems:** Writing robust, multi-threaded C++ applications for real-time systems on Linux, collaborating closely with FPGA/CPLD, and diagnosing complex defects using gdb and Valgrind[cite: 1].
 * **Modern DevOps & AI:** Deploying containerized microservices into production environments with Docker and Kubernetes, while leveraging cutting-edge AI-driven workflows (GitHub Copilot, Open-Code) to optimize delivery[cite: 1].
-
-<br clear="left" />
 
 ---
 
