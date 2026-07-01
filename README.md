@@ -40,7 +40,7 @@ I am a passionate and versatile **Software Engineer** with 4+ years of experienc
 ## 📊 GitHub Stats & Code Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=aviya94&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=loc&hide=stars,prs,issues,contribs" alt="Aviya's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=aviya94&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=branches&hide=stars,prs,issues,contribs" alt="Aviya's GitHub Stats" height="180" />
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=aviya94&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
 </p>
 
