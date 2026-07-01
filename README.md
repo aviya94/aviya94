@@ -1,12 +1,12 @@
 # Hi there, I'm Aviya Meidan 👋
 ### Software Engineer | Backend & Embedded Systems Developer
 
-I am a passionate and versatile **Software Engineer** with 4+ years of experience specializing in building robust, high-performance systems. My core expertise lies in **Backend Architecture** and **Real-Time Embedded Systems**, combining low-level hardware constraints with scalable cloud applications.
+I am a passionate and versatile **Software Engineer** with 4+ years of experience specializing in building robust, high-performance systems[cite: 1]. My core expertise lies in **Backend Architecture** and **Real-Time Embedded Systems**, combining low-level hardware constraints with scalable cloud applications[cite: 1].
 
 🚀 **What I Do:**
-* **Backend Development:** Architecting scalable backend services and RESTful APIs using .NET 8 (ASP.NET Core), Java Spring, and modern DB environments.
-* **Embedded Systems:** Writing robust, multi-threaded C++ applications for real-time systems on Linux, collaborating closely with FPGA/CPLD, and diagnosing complex defects using gdb and Valgrind.
-* **Modern DevOps & AI:** Deploying containerized microservices into production environments with Docker and Kubernetes, while leveraging cutting-edge AI-driven workflows (GitHub Copilot, Open-Code) to optimize delivery.
+* **Backend Development:** Architecting scalable backend services and RESTful APIs using .NET 8 (ASP.NET Core), Java Spring, and modern DB environments[cite: 1].
+* **Embedded Systems:** Writing robust, multi-threaded C++ applications for real-time systems on Linux, collaborating closely with FPGA/CPLD, and diagnosing complex defects using gdb and Valgrind[cite: 1].
+* **Modern DevOps & AI:** Deploying containerized microservices into production environments with Docker and Kubernetes, while leveraging cutting-edge AI-driven workflows (GitHub Copilot, Open-Code) to optimize delivery[cite: 1].
 
 ---
 
@@ -37,15 +37,15 @@ I am a passionate and versatile **Software Engineer** with 4+ years of experienc
 
 ---
 
-## 📊 GitHub Stats & Achievements
+## 📊 My GitHub Contributions & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.graphem.tech/api?username=aviya94&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Aviya's GitHub Stats" height="190" />
-  <img src="https://github-readme-stats.graphem.tech/api/top-langs/?username=aviya94&layout=compact&theme=tokyonight&hide=javascript,html,css" alt="Top Languages" height="190" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aviya94&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Aviya's Contribution Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aviya94&theme=tokyonight&column=4&margin-w=15" alt="Aviya's GitHub Trophies" />
+  <img src="https://img.shields.io/github/commits-each-year/aviya94?style=for-the-badge&color=512BD4&label=Total%20Commits" alt="Commits Timeline" />
+  <img src="https://img.shields.io/github/followers/aviya94?style=for-the-badge&color=00599C&label=Followers" alt="Followers" />
 </p>
 
 ---
