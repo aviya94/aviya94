@@ -31,7 +31,7 @@ I am a passionate and versatile **Software Engineer** with 4+ years of experienc
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&angle=0&logoColor=white)
 
 ### 🚀 DevOps & AI Tools
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -44,8 +44,8 @@ I am a passionate and versatile **Software Engineer** with 4+ years of experienc
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aviya94&show_icons=true&theme=tokyonight&count_private=true" alt="Aviya's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviya94&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aviya94&show_icons=true&theme=tokyonight&count_private=true" alt="Aviya's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aviya94&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
